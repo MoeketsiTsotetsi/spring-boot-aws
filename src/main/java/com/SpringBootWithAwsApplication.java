@@ -8,6 +8,7 @@ public class SpringBootWithAwsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootWithAwsApplication.class, args);
+		System.out.println("running");
 	}
 
 }
